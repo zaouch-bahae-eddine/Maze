@@ -1,0 +1,33 @@
+h1 {
+    color: black; 
+    font-size: 10em; /* Fallback: assume this color ON TOP of image */
+    background: url(../img/maze.JPG)  center no-repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 0 auto;
+    width: fit-content;
+    text-shadow: 1px 1px 1px #d3d3d35c;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000d0;
+}
+form {
+    margin: 0 auto;
+    width: fit-content;
+    margin-top: 46px;
+}
+input{
+    width: 220px;
+    padding: 11px;
+    border: 1px solid darkgrey;
+    border-radius: 5px;
+}
+button {
+    display: block;
+    margin: 0 auto;
+    margin-top: 22px;
+    width: 100%;
+    padding: 11px;
+    background-color: #d3d3d35c;
+    border: 1px solid darkgrey;
+    border-radius: 5px;
+}
