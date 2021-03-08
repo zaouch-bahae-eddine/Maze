@@ -18,7 +18,6 @@
 #maze{
     border-collapse: collapse;
     margin: 26px auto;
-
 }
 h1 {
     color: black; 
@@ -31,6 +30,9 @@ h1 {
     text-shadow: 1px 1px 1px #d3d3d35c;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: #000000d0;
+}
+#home-link {
+    text-decoration: none ;
 }
 .size{
     width: fit-content;

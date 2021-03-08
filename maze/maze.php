@@ -8,7 +8,7 @@
     <link rel="stylesheet"  href="../css/maze.css">
 </head>
 <body>
-    <h1>- Maze -</h1>
+    <h1> <a id="home-link" href="../index.html">- Maze -</a></h1>
     <div class="size">
         <span></span>
         <span></span>
